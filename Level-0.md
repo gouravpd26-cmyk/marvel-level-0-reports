@@ -13,7 +13,7 @@ An **Application Programming Interface (API)** is a bridge that allows different
 
 **Website link:** [Dog-API](https://gourav-api.vercel.app/)
 
-![Insert image description here](dog-api-image-task-2.jpg)
+![Dog api image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/dog-api-image-task-2.jpg?raw=true)
 
 ---
 ## 3.Working with GitHub (Task 3)
@@ -22,7 +22,7 @@ I successfully completed the GitHub integration task by exploring and applying e
 
 ### Pull request
 
-![Pull request](working-with-github-task-3.jpg)
+![Pull request](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/working-with-github-task-3.jpg?raw=true)
 
 ---
 ## 4. Command lines on Ubuntu (Task 4)
@@ -37,11 +37,11 @@ I successfully navigated the Ubuntu command line and executed the following fund
 This exercise solidified my understanding of core bash commands and shell automation.
 
 ### Generated multiple folder
-![](marvel-task-4-ubuntu.jpg)
+![multiple folder image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/marvel-task-4-ubuntu.jpg?raw=true)
 
 ### Concatenation of two files
 
-![](marvel-task-4-ubuntu2.jpg)
+![concatenation image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/marvel-task-4-ubuntu2.jpg?raw=true)
 
 ---
 ## 5. Build Your Own Brain - Linear Regression from Scratch (Task 5)
@@ -62,9 +62,9 @@ Both models were evaluated using standard metrics (MSE, MAE, and R²).
 ### Key Takeaways
 Building this algorithm manually provided a profound understanding of how weights are optimized mathematically, emphasizing the critical importance of feature scaling and learning rate calibration in machine learning pipelines.
 
-![Image](linear-regression-task-5.png)
+![code image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/linear-regression-task-5.png?raw=true)
 
-![Image](linear-regression-graph-task-5.png)
+![graph image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/linear-regression-graph-task-5.png?raw=true)
 
 ---
 ## 6. The Matrix Puzzle (NumPy and Matplotlib) 
@@ -79,9 +79,9 @@ Building this algorithm manually provided a profound understanding of how weight
 
 **Outcome:** Successfully decoded the matrix to reveal an upright yellow smiley face.
 
-![Image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/decode-matrix-code-task-6.png?raw=true)
+![code-task-6](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/decode-matrix-code-task-6.png?raw=true)
 
-![Image](decode-matrix-image-task-6.png)
+![image-task-6](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/decode-matrix-image-task-6.png?raw=true)
 
 ---
 
