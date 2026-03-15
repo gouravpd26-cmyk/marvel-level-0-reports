@@ -67,7 +67,7 @@ Building this algorithm manually provided a profound understanding of how weight
 ![graph image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/linear-regression-graph-task-5.png?raw=true)
 
 ---
-## 6. The Matrix Puzzle (NumPy and Matplotlib) 
+## 6. The Matrix Puzzle (NumPy and Matplotlib) (Task 6)
 
 **Objective:** Decode a scrambled NumPy array to reveal a hidden image using array manipulation and Matplotlib visualization.
 
@@ -84,4 +84,73 @@ Building this algorithm manually provided a profound understanding of how weight
 ![image-task-6](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/decode-matrix-image-task-6.png?raw=true)
 
 ---
+## 7. Create a Portfolio Webpage (Task 7)
+
+I developed a responsive personal portfolio website to showcase my background, technical interests, and projects. Built using modern web frameworks and styled with custom CSS. The final codebase is version-controlled and successfully pushed to a GitHub repository for deployment.
+
+**Link:** [My-Portfolio](https://my-portfolio-jade-alpha-32.vercel.app)
+
+![Portfolio-page]()
+
+---
+## 8. Writing Resource Article using Markdown (Task 8)
+
+I authored a technical Markdown article titled "The Whispering Silicon: An Introduction to Acoustic Cryptanalysis". The repository, containing the fully formatted plain-text resource, has been successfully committed and pushed to GitHub.
+
+**Link:** [Acoustic Cryptanalysis](https://github.com/gouravpd26-cmyk/marvel-md-task/blob/main/acoustic_cryptanalysis.md)
+
+---
+## 9. Tinkercad (Task 9)
+
+**Task Overview**
+Successfully completed the Tinkercad simulation tasks, progressing from basic circuit familiarization to building a functional sweep radar system.
+
+**Key Accomplishments:**
+* Simulated a basic ultrasonic distance sensor circuit, successfully outputting real-time distance metrics to the Serial Monitor.
+* Engineered a simulated radar system by integrating the ultrasonic sensor with a micro servo motor.
+* Programmed the servo to sweep across a specified degree range while the ultrasonic sensor continuously emitted sound waves to detect object distances and map the immediate area.
+
+**Task Outcomes:**
+* Gained hands-on proficiency with the Tinkercad simulation environment and component wiring.
+* Understood the practical working principles of ultrasonic sensors (time-of-flight measurements) and servo motor control.
+* Grasped the foundational concepts of radar technology and automated spatial scanning.
+
+![Tinkercad]()
+
+---
+## 10. Speed Control of DC Motor (Task 10) 
+
+I successfully completed the speed control task for DC motor using an Arduino UNO and an L298N H-Bridge motor driver. The circuit was first simulated in Tinkercad to verify the logic and wiring. Subsequently, I constructed the physical hardware setup, utilizing signals to effectively regulate the motor's RPM. The complete hardware demonstration and its functionality were successfully recorded on video.
+
+![Video]()
+
+---
+## 11. LED Toggle Using ESP32 (Task 11)
+
+I successfully configured the Arduino IDE for ESP32 development and programmed the board to operate as a standalone web server. By connecting the ESP32 to a local network, I deployed a web interface that sends HTTP requests to the microcontroller. The system accurately parses these incoming client requests to toggle the state of an LED connected to the GPIO pins, demonstrating fundamental IoT hardware control.
+
+![Image]()
+
+![Video]()
+
+---
+## 12. Karnaugh maps and deriving the logic circuit (Task 14)
+
+This project details the design of a simple burglar alarm circuit using two inputs: a door sensor and a key button. The objective is to activate an LED or buzzer only if the door is opened without the authorized key being pressed. 
+
+By analyzing the four possible input combinations, I determined the alarm triggers in just one specific scenario. Using a Karnaugh map, I derived the simplified Boolean logic expression: Alarm equals Door AND NOT Key ($A = D \cdot \overline{K}$). 
+
+To construct this circuit, the key input connects to a NOT gate. This inverted signal, alongside the direct door input, feeds into an AND gate. The resulting output from the AND gate successfully drives the alarm mechanism.
+
+![Karnaugh]()
+
+---
+## 13. Introduction to VR (Task 17)
+
+I have successfully completed this task. The comprehensive study—covering the core differences between VR and AR, current technology trends, the software/hardware stack, and prominent Indian companies in the space—is fully documented in the attached .md file.
+
+Link to report: [.md file](https://github.com/gouravpd26-cmyk/Intro-to-VR/blob/main/VR.md)
+
+---
+
 
