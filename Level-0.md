@@ -36,7 +36,7 @@ I successfully navigated the Ubuntu command line and executed the following fund
 
 This exercise solidified my understanding of core bash commands and shell automation.
 
-### Generated multple folder
+### Generated multiple folder
 ![](marvel-task-4-ubuntu.jpg)
 
 ### Concatenation of two files
@@ -79,7 +79,7 @@ Building this algorithm manually provided a profound understanding of how weight
 
 **Outcome:** Successfully decoded the matrix to reveal an upright yellow smiley face.
 
-![Image](decode-matrix-code-task-6.png)
+![Image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/decode-matrix-code-task-6.png?raw=true)
 
 ![Image](decode-matrix-image-task-6.png)
 
