@@ -90,7 +90,7 @@ I developed a responsive personal portfolio website to showcase my background, t
 
 **Link:** [My-Portfolio](https://my-portfolio-jade-alpha-32.vercel.app)
 
-![Portfolio-page]()
+![Portfolio-page](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/portfolio-page.png?raw=true)
 
 ---
 ## 8. Writing Resource Article using Markdown (Task 8)
@@ -115,21 +115,24 @@ Successfully completed the Tinkercad simulation tasks, progressing from basic ci
 * Understood the practical working principles of ultrasonic sensors (time-of-flight measurements) and servo motor control.
 * Grasped the foundational concepts of radar technology and automated spatial scanning.
 
-![Tinkercad]()
+![Tinkercad](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/tinkercard-image.jpg?raw=true)
 
 ---
 ## 10. Speed Control of DC Motor (Task 10) 
 
 I successfully completed the speed control task for DC motor using an Arduino UNO and an L298N H-Bridge motor driver. The circuit was first simulated in Tinkercad to verify the logic and wiring. Subsequently, I constructed the physical hardware setup, utilizing signals to effectively regulate the motor's RPM. The complete hardware demonstration and its functionality were successfully recorded on video.
 
-![Video]()
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/gouravpd26-cmyk/marvel-level-0-reports/main/dc-motor-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 ## 11. LED Toggle Using ESP32 (Task 11)
 
 I successfully configured the Arduino IDE for ESP32 development and programmed the board to operate as a standalone web server. By connecting the ESP32 to a local network, I deployed a web interface that sends HTTP requests to the microcontroller. The system accurately parses these incoming client requests to toggle the state of an LED connected to the GPIO pins, demonstrating fundamental IoT hardware control.
 
-![Image]()
+![Image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/esp32.png?raw=true)
 
 ![Video]()
 
@@ -142,7 +145,7 @@ By analyzing the four possible input combinations, I determined the alarm trigge
 
 To construct this circuit, the key input connects to a NOT gate. This inverted signal, alongside the direct door input, feeds into an AND gate. The resulting output from the AND gate successfully drives the alarm mechanism.
 
-![Karnaugh]()
+![Karnaugh](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/karnaugh-image.jpeg?raw=true)
 
 ---
 ## 13. Introduction to VR (Task 17)
@@ -152,5 +155,32 @@ I have successfully completed this task. The comprehensive study—covering the 
 Link to report: [.md file](https://github.com/gouravpd26-cmyk/Intro-to-VR/blob/main/VR.md)
 
 ---
+## 14. Sad servers - "Like Leetcode for Linux" (Task 18)
 
+Sadservers is an online platform to learn and practice Linux skills. I Successfully solved the SadServers mystery using Linux CLI tools. Leveraged `grep` to extract clues, and chained `cat`, `sort`, and `uniq` to cross-reference membership files. Identified the culprit and validated the final solution.
 
+![Sadservers]()
+
+---
+## 15. Active Participation (Task 15)
+
+I actively participated in KAGADA 2025, the 21st Annual National-Level Technical Student Conference organized by IEEE UVCE on November 8th, 2025. For this technical event, I competed in the poster presentation competition, showcasing my research on "Post-Quantum Cryptography," and successfully received a formal certificate of participation for the event.
+
+![Kagada]()
+
+---
+
+## 16. Web App using Express (Task 19)
+
+**Overview :**
+Successfully developed a full-stack Resource Library web application utilizing a Node.js/Express backend and a responsive HTML/CSS/JavaScript frontend. 
+
+**Key Accomplishments:**
+* **Frontend Development:** Built a responsive user interface using three core files (`index.html`, `style.css`, `script.js`), featuring a dynamic resource grid, category filtering, and an interactive account management modal.
+* **Backend Setup:** Initialized a Node.js environment and implemented an Express server (`server.js`) to serve static client files securely from a designated `public` directory.
+* **API Routing:** Created a backend REST API endpoint (`/api/resources`) to serve mock database records as JSON.
+* **Local Hosting:** Configured and launched the server on localhost port 3000, establishing a solid foundation for future database integration.
+
+![web-image]()
+
+![web-code]()
