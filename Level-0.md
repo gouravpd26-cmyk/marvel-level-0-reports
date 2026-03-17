@@ -122,10 +122,7 @@ Successfully completed the Tinkercad simulation tasks, progressing from basic ci
 
 I successfully completed the speed control task for DC motor using an Arduino UNO and an L298N H-Bridge motor driver. The circuit was first simulated in Tinkercad to verify the logic and wiring. Subsequently, I constructed the physical hardware setup, utilizing signals to effectively regulate the motor's RPM. The complete hardware demonstration and its functionality were successfully recorded on video.
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/gouravpd26-cmyk/marvel-level-0-reports/main/dc-motor-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![DC motor video](https://drive.google.com/file/d/1knX8GZmNbFUU43KionxJc5f5itiN9eQZ/view?usp=drivesdk)](https://drive.google.com/file/d/1kTEi42mMwyn-Xq1AiAlL6xEo6mthMwzY/view?usp=drivesdk)
 
 ---
 ## 11. LED Toggle Using ESP32 (Task 11)
@@ -134,10 +131,7 @@ I successfully configured the Arduino IDE for ESP32 development and programmed t
 
 ![Image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/esp32.png?raw=true)
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/gouravpd26-cmyk/marvel-level-0-reports/main/esp32-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![ESP32-Video](https://drive.google.com/file/d/1g1OIWNYbWlAZyXVBM1HCv6cFJ1SNiI36/view?usp=drivesdk)](https://drive.google.com/file/d/1xw7lcSvXE_aH2Zmtnuzabf73mNED8Ug2/view?usp=drivesdk)
 
 ---
 ## 12. Karnaugh maps and deriving the logic circuit (Task 14)
