@@ -134,7 +134,10 @@ I successfully configured the Arduino IDE for ESP32 development and programmed t
 
 ![Image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/esp32.png?raw=true)
 
-![Video]()
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/gouravpd26-cmyk/marvel-level-0-reports/main/esp32-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 ## 12. Karnaugh maps and deriving the logic circuit (Task 14)
