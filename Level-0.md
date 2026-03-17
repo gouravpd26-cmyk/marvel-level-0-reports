@@ -159,14 +159,14 @@ Link to report: [.md file](https://github.com/gouravpd26-cmyk/Intro-to-VR/blob/m
 
 Sadservers is an online platform to learn and practice Linux skills. I Successfully solved the SadServers mystery using Linux CLI tools. Leveraged `grep` to extract clues, and chained `cat`, `sort`, and `uniq` to cross-reference membership files. Identified the culprit and validated the final solution.
 
-![Sadservers]()
+![Sadservers](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/sad%20servers%20.png?raw=true)
 
 ---
 ## 15. Active Participation (Task 15)
 
 I actively participated in KAGADA 2025, the 21st Annual National-Level Technical Student Conference organized by IEEE UVCE on November 8th, 2025. For this technical event, I competed in the poster presentation competition, showcasing my research on "Post-Quantum Cryptography," and successfully received a formal certificate of participation for the event.
 
-![Kagada]()
+![Kagada](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/kagada%20participation.png?raw=true)
 
 ---
 
@@ -181,6 +181,8 @@ Successfully developed a full-stack Resource Library web application utilizing a
 * **API Routing:** Created a backend REST API endpoint (`/api/resources`) to serve mock database records as JSON.
 * **Local Hosting:** Configured and launched the server on localhost port 3000, establishing a solid foundation for future database integration.
 
-![web-image]()
+![web-image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/web-app-image.png?raw=true)
 
-![web-code]()
+![web-code](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/web-app-code-image.png?raw=true)
+
+---
