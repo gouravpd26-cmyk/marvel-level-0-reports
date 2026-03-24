@@ -62,7 +62,7 @@ Both models were evaluated using standard metrics (MSE, MAE, and R²).
 ### Key Takeaways
 Building this algorithm manually provided a profound understanding of how weights are optimized mathematically, emphasizing the critical importance of feature scaling and learning rate calibration in machine learning pipelines.
 
-![code image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/linear-regression-task-5.png?raw=true)
+![code image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/linear-regression-new-code.png?raw=true)
 
 ![graph image](https://github.com/gouravpd26-cmyk/marvel-level-0-reports/blob/main/linear-regression-graph-task-5.png?raw=true)
 
